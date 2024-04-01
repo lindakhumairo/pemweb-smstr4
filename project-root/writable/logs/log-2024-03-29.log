@@ -1,0 +1,376 @@
+CRITICAL - 2024-03-29 12:24:40 --> ErrorException: Undefined variable $alamat
+in APPPATH\Views\page\contact.php on line 9.
+ 1 APPPATH\Views\page\contact.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $alamat', 'C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Views\\page\\contact.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Views\\page\\contact.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('page/contact', [], true)
+ 5 APPPATH\Controllers\Page.php(44): view('page/contact', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Page->contact()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-29 12:25:20 --> ErrorException: Undefined variable $alamat
+in APPPATH\Views\page\contact.php on line 9.
+ 1 APPPATH\Views\page\contact.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $alamat', 'C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Views\\page\\contact.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Views\\page\\contact.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('page/contact', [], true)
+ 5 APPPATH\Controllers\Page.php(44): view('page/contact', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Page->contact()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-29 12:25:20 --> ErrorException: Undefined variable $alamat
+in APPPATH\Views\page\contact.php on line 9.
+ 1 APPPATH\Views\page\contact.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $alamat', 'C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Views\\page\\contact.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Views\\page\\contact.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('page/contact', [], true)
+ 5 APPPATH\Controllers\Page.php(44): view('page/contact', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Page->contact()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-29 12:25:20 --> ErrorException: Undefined variable $alamat
+in APPPATH\Views\page\contact.php on line 9.
+ 1 APPPATH\Views\page\contact.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $alamat', 'C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Views\\page\\contact.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Views\\page\\contact.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('page/contact', [], true)
+ 5 APPPATH\Controllers\Page.php(44): view('page/contact', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Page->contact()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-29 12:25:21 --> ErrorException: Undefined variable $alamat
+in APPPATH\Views\page\contact.php on line 9.
+ 1 APPPATH\Views\page\contact.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $alamat', 'C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Views\\page\\contact.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Views\\page\\contact.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('page/contact', [], true)
+ 5 APPPATH\Controllers\Page.php(44): view('page/contact', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Page->contact()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-29 12:25:21 --> ErrorException: Undefined variable $alamat
+in APPPATH\Views\page\contact.php on line 9.
+ 1 APPPATH\Views\page\contact.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $alamat', 'C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Views\\page\\contact.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Views\\page\\contact.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('page/contact', [], true)
+ 5 APPPATH\Controllers\Page.php(44): view('page/contact', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Page->contact()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-29 12:25:23 --> ErrorException: Undefined variable $alamat
+in APPPATH\Views\page\contact.php on line 9.
+ 1 APPPATH\Views\page\contact.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $alamat', 'C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Views\\page\\contact.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Views\\page\\contact.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('page/contact', [], true)
+ 5 APPPATH\Controllers\Page.php(44): view('page/contact', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Page->contact()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-29 12:25:31 --> ErrorException: Undefined variable $alamat
+in APPPATH\Views\page\contact.php on line 9.
+ 1 APPPATH\Views\page\contact.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $alamat', 'C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Views\\page\\contact.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Views\\page\\contact.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('page/contact', [], true)
+ 5 APPPATH\Controllers\Page.php(44): view('page/contact', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Page->contact()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-29 12:44:32 --> ErrorException: Undefined variable $alamat
+in APPPATH\Views\page\contact.php on line 9.
+ 1 APPPATH\Views\page\contact.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $alamat', 'C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Views\\page\\contact.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Views\\page\\contact.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('page/contact', [], true)
+ 5 APPPATH\Controllers\Page.php(44): view('page/contact', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Page->contact()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-29 12:44:36 --> ErrorException: Undefined variable $alamat
+in APPPATH\Views\page\contact.php on line 9.
+ 1 APPPATH\Views\page\contact.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $alamat', 'C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Views\\page\\contact.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Views\\page\\contact.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('page/contact', [], true)
+ 5 APPPATH\Controllers\Page.php(44): view('page/contact', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Page->contact()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+ERROR - 2024-03-29 12:44:42 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'ci4', 3306, '', 0)
+#1 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\Vian\Downloads\pertemuan-5\app\Controllers\Books.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(941): App\Controllers\Books->index()
+#8 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+#9 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Vian\Downloads\pertemuan-5\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\D...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\Vian\Downloads\pertemuan-5\app\Controllers\Books.php(18): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(941): App\Controllers\Books->index()
+#7 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+#8 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\Vian\Downloads\pertemuan-5\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\D...')
+#11 {main}
+CRITICAL - 2024-03-29 12:44:42 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `books`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Books.php(18): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Books->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+ERROR - 2024-03-29 12:44:44 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'ci4', 3306, '', 0)
+#1 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\Vian\Downloads\pertemuan-5\app\Controllers\Books.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(941): App\Controllers\Books->index()
+#8 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+#9 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Vian\Downloads\pertemuan-5\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\D...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\Vian\Downloads\pertemuan-5\app\Controllers\Books.php(18): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(941): App\Controllers\Books->index()
+#7 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+#8 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\Vian\Downloads\pertemuan-5\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\D...')
+#11 {main}
+CRITICAL - 2024-03-29 12:44:44 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `books`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Books.php(18): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Books->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+ERROR - 2024-03-29 12:44:46 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'ci4', 3306, '', 0)
+#1 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\Vian\Downloads\pertemuan-5\app\Controllers\Books.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(941): App\Controllers\Books->index()
+#8 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+#9 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Vian\Downloads\pertemuan-5\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\D...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\Vian\Downloads\pertemuan-5\app\Controllers\Books.php(18): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(941): App\Controllers\Books->index()
+#7 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+#8 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\Vian\Downloads\pertemuan-5\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\D...')
+#11 {main}
+CRITICAL - 2024-03-29 12:44:46 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `books`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Books.php(18): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Books->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-29 12:44:47 --> ErrorException: Undefined variable $alamat
+in APPPATH\Views\page\contact.php on line 9.
+ 1 APPPATH\Views\page\contact.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $alamat', 'C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Views\\page\\contact.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Views\\page\\contact.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('page/contact', [], true)
+ 5 APPPATH\Controllers\Page.php(44): view('page/contact', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Page->contact()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+ERROR - 2024-03-29 12:47:43 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'ci4', 3306, '', 0)
+#1 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\Vian\Downloads\pertemuan-5\app\Controllers\Books.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(941): App\Controllers\Books->index()
+#8 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+#9 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Vian\Downloads\pertemuan-5\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\D...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\Vian\Downloads\pertemuan-5\app\Controllers\Books.php(18): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(941): App\Controllers\Books->index()
+#7 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+#8 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\Vian\Downloads\pertemuan-5\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\D...')
+#11 {main}
+CRITICAL - 2024-03-29 12:47:43 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `books`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Books.php(18): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Books->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+ERROR - 2024-03-29 12:50:11 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'ci4', 3306, '', 0)
+#1 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\Vian\Downloads\pertemuan-5\app\Controllers\Books.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(941): App\Controllers\Books->index()
+#8 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+#9 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Vian\Downloads\pertemuan-5\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\D...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\Vian\Downloads\pertemuan-5\app\Controllers\Books.php(18): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(941): App\Controllers\Books->index()
+#7 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+#8 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\Vian\Downloads\pertemuan-5\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\Vian\Downloads\pertemuan-5\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\D...')
+#11 {main}
+CRITICAL - 2024-03-29 12:50:11 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `books`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Books.php(18): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Books->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-29 13:28:13 --> ErrorException: Undefined variable $addres
+in APPPATH\Views\page\contact.php on line 7.
+ 1 APPPATH\Views\page\contact.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $addres', 'C:\\xampp\\htdocs\\pertemuan-5\\app\\Views\\page\\contact.php', 7)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\pertemuan-5\\app\\Views\\page\\contact.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('page/contact', [], true)
+ 5 APPPATH\Controllers\Page.php(35): view('page/contact', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Page->contact()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-29 13:37:52 --> ErrorException: Undefined variable $alamat
+in APPPATH\Views\page\contact.php on line 8.
+ 1 APPPATH\Views\page\contact.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $alamat', 'C:\\xampp\\htdocs\\pertemuan-5\\app\\Views\\page\\contact.php', 8)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\pertemuan-5\\app\\Views\\page\\contact.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('page/contact', [], true)
+ 5 APPPATH\Controllers\Page.php(44): view('page/contact', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Page->contact()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pertemuan-5\\public\\index.php')

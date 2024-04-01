@@ -1,0 +1,139 @@
+CRITICAL - 2024-03-26 13:00:50 --> ParseError: syntax error, unexpected token "use", expecting "{"
+in APPPATH\Models\BooksModel.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Models\\BooksModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\BooksModel')
+ 3 APPPATH\Controllers\Books.php(12): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\BooksModel')
+ 4 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Books->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-26 13:01:41 --> ParseError: syntax error, unexpected token "use", expecting "{"
+in APPPATH\Models\BooksModel.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Models\\BooksModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\BooksModel')
+ 3 APPPATH\Controllers\Books.php(12): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\BooksModel')
+ 4 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Books->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-26 13:12:53 --> Error: Class "App\Models\BooksModel" not found
+in APPPATH\Controllers\Books.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Books->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-26 13:13:29 --> Error: Class "App\Models\BooksModel" not found
+in APPPATH\Controllers\Books.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Books->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-26 13:13:44 --> Error: Class "App\Models\BooksModel" not found
+in APPPATH\Controllers\Books.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Books->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-26 13:14:26 --> Error: Class "App\Models\BooksModel" not found
+in APPPATH\Controllers\Books.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Books->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-26 13:15:34 --> Error: Class "App\Controllers\BookModel" not found
+in APPPATH\Controllers\Books.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Books->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-26 13:15:54 --> ParseError: syntax error, unexpected token "use", expecting "{"
+in APPPATH\Models\BooksModel.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Models\\BooksModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\BooksModel')
+ 3 APPPATH\Controllers\Books.php(12): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\BooksModel')
+ 4 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Books->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-26 13:18:14 --> ParseError: syntax error, unexpected token "use", expecting "{"
+in APPPATH\Models\BooksModel.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Models\\BooksModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\BooksModel')
+ 3 APPPATH\Controllers\Books.php(12): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\BooksModel')
+ 4 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Books->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-26 13:18:23 --> ParseError: syntax error, unexpected token "use", expecting "{"
+in APPPATH\Models\BooksModel.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Models\\BooksModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\BooksModel')
+ 3 APPPATH\Controllers\Books.php(12): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\BooksModel')
+ 4 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Books->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-26 13:21:56 --> ParseError: syntax error, unexpected token "use", expecting "{"
+in APPPATH\Models\BooksModel.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Models\\BooksModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\BooksModel')
+ 3 APPPATH\Controllers\Books.php(12): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\BooksModel')
+ 4 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Books->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-26 13:22:31 --> ParseError: syntax error, unexpected token "}", expecting "," or ";"
+in APPPATH\Models\BooksModel.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Models\\BooksModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\BooksModel')
+ 3 APPPATH\Controllers\Books.php(12): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\BooksModel')
+ 4 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Books->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-26 13:27:33 --> ParseError: syntax error, unexpected token "use", expecting "{"
+in APPPATH\Models\BooksModel.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\Vian\\Downloads\\pertemuan-5\\app\\Models\\BooksModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\BooksModel')
+ 3 APPPATH\Controllers\Books.php(12): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\BooksModel')
+ 4 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Books->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-26 13:37:29 --> BadMethodCallException: Call to undefined method App\Models\BooksModel::getBuku
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Books.php(18): CodeIgniter\Model->__call('getBuku', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Books->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-26 13:42:47 --> BadMethodCallException: Call to undefined method App\Models\BooksModel::getBuku
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Books.php(18): CodeIgniter\Model->__call('getBuku', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Books->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-26 14:15:12 --> BadMethodCallException: Call to undefined method App\Models\BooksModel::getBuku
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Books.php(18): CodeIgniter\Model->__call('getBuku', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Books->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')

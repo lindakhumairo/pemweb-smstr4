@@ -1,0 +1,55 @@
+CRITICAL - 2024-03-27 08:39:11 --> BadMethodCallException: Call to undefined method App\Models\BooksModel::getBuku
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Books.php(18): CodeIgniter\Model->__call('getBuku', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Books->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-27 08:57:47 --> BadMethodCallException: Call to undefined method App\Models\BooksModel::getBuku
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Books.php(18): CodeIgniter\Model->__call('getBuku', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Books->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-27 08:59:29 --> Error: Call to undefined method App\Models\BooksModel::getBuku()
+in APPPATH\Controllers\Books.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Books->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-27 08:59:45 --> BadMethodCallException: Call to undefined method App\Models\BooksModel::getBuku
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Books.php(18): CodeIgniter\Model->__call('getBuku', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Books->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-27 09:10:23 --> BadMethodCallException: Call to undefined method App\Models\BooksModel::getBuku
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Books.php(18): CodeIgniter\Model->__call('getBuku', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Books->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-27 09:10:27 --> BadMethodCallException: Call to undefined method App\Models\BooksModel::getBuku
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Books.php(18): CodeIgniter\Model->__call('getBuku', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Books->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
+CRITICAL - 2024-03-27 10:02:21 --> BadMethodCallException: Call to undefined method App\Models\BooksModel::getBuku
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Books.php(18): CodeIgniter\Model->__call('getBuku', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Books->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Books))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Vian\\Downloads\\pertemuan-5\\public\\index.php')
