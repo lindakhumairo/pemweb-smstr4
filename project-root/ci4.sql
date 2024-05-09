@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 30 Mar 2024 pada 07.37
+-- Waktu pembuatan: 08 Bulan Mei 2024 pada 14.56
 -- Versi server: 10.4.28-MariaDB
 -- Versi PHP: 8.2.4
 
@@ -35,16 +35,16 @@ CREATE TABLE `books` (
   `penerbit` varchar(256) NOT NULL,
   `sampul` varchar(256) NOT NULL,
   `created_at` datetime NOT NULL,
-  `upload_at` datetime NOT NULL
+  `updated_at` datetime NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Dumping data untuk tabel `books`
 --
 
-INSERT INTO `books` (`id`, `judul`, `slug`, `penulis`, `penerbit`, `sampul`, `created_at`, `upload_at`) VALUES
-(1, 'Naruto', 'naruto', 'masashi kishimoto', 'gramedia', 'naruto.jpg', '2024-03-30 07:09:42', '2024-03-30 07:09:42'),
-(2, 'buku', 'b', 'pian', 'gramedia', 'buku.jpg', '2024-03-30 07:34:23', '2024-03-30 07:34:23');
+INSERT INTO `books` (`id`, `judul`, `slug`, `penulis`, `penerbit`, `sampul`, `created_at`, `updated_at`) VALUES
+(1, 'tere liye bulan dan bumi', 'tere liye bulan dan bumi', 'artis', 'gramedia', 'linda.jpg', '2024-05-08 14:44:44', '2024-05-08 14:44:44'),
+(6, 'p', 'p', 'p', 'p', 'p', '2024-05-08 12:56:18', '2024-05-08 12:56:18');
 
 --
 -- Indexes for dumped tables
@@ -64,7 +64,7 @@ ALTER TABLE `books`
 -- AUTO_INCREMENT untuk tabel `books`
 --
 ALTER TABLE `books`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

@@ -31,7 +31,41 @@ class Books extends BaseController
             'title' => 'Detail Buku',
             'buku'  => $this->bukuModel->getBuku($slug)
         ];
+        //jika buku tidak ada
+        if (empty($data['buku'])) {
+            throw new \CodeIgniter\Exceptions\PageNotFoundException('Judul Buku' . $slug . 'tidak ditemukan');
+        }
+
+
 
         return view('books/detail', $data);
+    }
+
+    public function create()
+    {
+
+        $data = [
+            'title' => 'Detail Buku'
+        ];
+
+        return view('books/create', $data);
+    }
+    public function save()
+    {
+        //$this->request->getVar('judul');
+
+        $slug = url_title($this->request->getVar('judul'), '-', true);
+        $this->bukuModel->save([
+            'judul' => $this->request->getVar('judul'),
+            'slug' => $slug,
+            'penulis' => $this->request->getVar('penulis'),
+            'penerbit' => $this->request->getVar('penerbit'),
+            'sampul' => $this->request->getVar('sampul')
+
+        ]);
+
+        session()->setFlashdata('pesan', 'Data Berhasil ditambahkan');
+
+        return redirect()->to('/books');
     }
 }

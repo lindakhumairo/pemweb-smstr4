@@ -31,12 +31,12 @@ class Page extends BaseController
             [
                 [
                     'tipe' => 'Rumah',
-                    'alamat' => 'sambong',
+                    'alamat' => 'Sambong',
                     'kota' => 'Jombang',
                 ],
                 [
                     'tipe' => 'kantor',
-                    'alamat' => 'DPRD',
+                    'alamat' => 'Unipdu',
                     'kota' => 'Jombang',
                 ]
             ]
