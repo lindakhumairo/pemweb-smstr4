@@ -31,8 +31,7 @@
                     <label for="penerbit" class="col-sm-2 col-form-label">Penerbit</label>
                     <div class="col-sm-10">
                         <input type="penerbit" class="form-control <?= ($validation->hasError('penerbit')) ? 'is-invalid' :
-                                                                        ''; ?>" id="penerbit" name="penerbit" value="<?=
-                                                                            old('penerbit'); ?>">
+                                                                        ''; ?>" id="penerbit" name="penerbit" value="<?= old('penerbit'); ?>">
                         <div class="invalid-feedback">
                             <?= $validation->getError('penerbit'); ?>
                         </div>

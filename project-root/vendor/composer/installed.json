@@ -2264,7 +2264,6 @@
     "dev": true,
     "dev-package-names": [
         "doctrine/instantiator",
-        "fakerphp/faker",
         "mikey179/vfsstream",
         "myclabs/deep-copy",
         "nikic/php-parser",
@@ -2276,7 +2275,6 @@
         "phpunit/php-text-template",
         "phpunit/php-timer",
         "phpunit/phpunit",
-        "psr/container",
         "sebastian/cli-parser",
         "sebastian/code-unit",
         "sebastian/code-unit-reverse-lookup",
@@ -2293,7 +2291,6 @@
         "sebastian/resource-operations",
         "sebastian/type",
         "sebastian/version",
-        "symfony/deprecation-contracts",
         "theseer/tokenizer"
     ]
 }
