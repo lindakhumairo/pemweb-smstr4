@@ -25,6 +25,7 @@
                     <a class="nav-link" aria-current="about" href="/page/about">About</a>
                     <a class="nav-link" aria-current="contact" href="/page/contact">Contact</a>
                     <a class="nav-link" aria-disabled="books" href="/books/">Books</a>
+                    <a class="nav-link" href="/penulis/">Daftar Penulis</a>
                 </div>
             </div>
         </div>

@@ -1,0 +1,144 @@
+INFO - 2024-06-10 05:58:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-10 05:58:36 --> Error: Class "Codeigniter\Model" not found
+in APPPATH\Models\PenulisModel.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(311): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\app\\Models\\PenulisModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PenulisModel')
+ 4 APPPATH\Controllers\Penulis.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PenulisModel')
+ 5 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Penulis->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\public\\index.php')
+CRITICAL - 2024-06-10 06:00:11 --> Error: Class "Codeigniter\Model" not found
+in APPPATH\Models\PenulisModel.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(311): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\app\\Models\\PenulisModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PenulisModel')
+ 4 APPPATH\Controllers\Penulis.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PenulisModel')
+ 5 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Penulis->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\public\\index.php')
+CRITICAL - 2024-06-10 06:00:14 --> Error: Class "Codeigniter\Model" not found
+in APPPATH\Models\PenulisModel.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(311): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\app\\Models\\PenulisModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PenulisModel')
+ 4 APPPATH\Controllers\Penulis.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PenulisModel')
+ 5 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Penulis->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\public\\index.php')
+CRITICAL - 2024-06-10 06:00:37 --> Error: Class "Codeigniter\Model" not found
+in APPPATH\Models\PenulisModel.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(311): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\app\\Models\\PenulisModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PenulisModel')
+ 4 APPPATH\Controllers\Penulis.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PenulisModel')
+ 5 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Penulis->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\public\\index.php')
+CRITICAL - 2024-06-10 06:00:39 --> Error: Class "Codeigniter\Model" not found
+in APPPATH\Models\PenulisModel.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(311): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\app\\Models\\PenulisModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PenulisModel')
+ 4 APPPATH\Controllers\Penulis.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PenulisModel')
+ 5 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Penulis->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\public\\index.php')
+CRITICAL - 2024-06-10 06:03:11 --> Error: Class "Codeigniter\Model" not found
+in APPPATH\Models\PenulisModel.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(311): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\app\\Models\\PenulisModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PenulisModel')
+ 4 APPPATH\Controllers\Penulis.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PenulisModel')
+ 5 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Penulis->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\public\\index.php')
+CRITICAL - 2024-06-10 06:07:50 --> Error: Class "Codeigniter\Model" not found
+in APPPATH\Models\PenulisModel.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(311): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\app\\Models\\PenulisModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PenulisModel')
+ 4 APPPATH\Controllers\Penulis.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PenulisModel')
+ 5 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Penulis->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\public\\index.php')
+INFO - 2024-06-10 06:12:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-10 06:12:11 --> Error: Call to undefined method CodeIgniter\View\View::extends()
+in APPPATH\Views\penulis\index.php on line 1.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('penulis/index', [], true)
+ 4 APPPATH\Controllers\Penulis.php(35): view('penulis/index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Penulis->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penulis))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\public\\index.php')
+INFO - 2024-06-10 06:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-10 06:12:53 --> ErrorException: Undefined array key "addrees"
+in APPPATH\Views\penulis\index.php on line 37.
+ 1 APPPATH\Views\penulis\index.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "addrees"', 'C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\app\\Views\\penulis\\index.php', 37)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\app\\Views\\penulis\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('penulis/index', [], true)
+ 5 APPPATH\Controllers\Penulis.php(35): view('penulis/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Penulis->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penulis))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\public\\index.php')
+INFO - 2024-06-10 06:13:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-10 06:13:17 --> ErrorException: Undefined array key "url"
+in APPPATH\Views\Pagers\penulis_pager.php on line 20.
+ 1 APPPATH\Views\Pagers\penulis_pager.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "url"', 'C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\app\\Views\\Pagers\\penulis_pager.php', 20)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\app\\Views\\Pagers\\penulis_pager.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Pager\Pager.php(128): CodeIgniter\View\View->render('App\\Views\\Pagers\\penulis_pager')
+ 5 SYSTEMPATH\Pager\Pager.php(85): CodeIgniter\Pager\Pager->displayLinks('penulis', 'penulis_pager')
+ 6 APPPATH\Views\penulis\index.php(43): CodeIgniter\Pager\Pager->links('penulis', 'penulis_pager')
+ 7 SYSTEMPATH\View\View.php(228): include('C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\app\\Views\\penulis\\index.php')
+ 8 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 9 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('penulis/index', [], true)
+10 APPPATH\Controllers\Penulis.php(35): view('penulis/index', [...])
+11 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Penulis->index()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penulis))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\public\\index.php')
+INFO - 2024-06-10 06:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-10 06:16:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-10 06:19:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-10 06:19:56 --> ErrorException: Undefined array key "addresss"
+in APPPATH\Views\penulis\index.php on line 31.
+ 1 APPPATH\Views\penulis\index.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "addresss"', 'C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\app\\Views\\penulis\\index.php', 31)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\app\\Views\\penulis\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('penulis/index', [], true)
+ 5 APPPATH\Controllers\Penulis.php(35): view('penulis/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Penulis->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penulis))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\LENOVO\\pemweb-smstr4\\project-root\\public\\index.php')
+INFO - 2024-06-10 06:21:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-10 06:22:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-10 06:22:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-10 06:22:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-10 06:22:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-10 06:25:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-10 06:25:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-10 06:25:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
